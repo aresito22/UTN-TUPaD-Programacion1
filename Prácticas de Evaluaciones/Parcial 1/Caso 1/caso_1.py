@@ -1,5 +1,3 @@
-
-
 titulos = ["El Señor de los Anillos", "Orgullo y Prejuicio", "Matar un Ruiseñor"]
 ejemplares = [5, 3, 7]
 
